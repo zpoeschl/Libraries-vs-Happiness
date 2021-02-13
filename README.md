@@ -13,11 +13,25 @@ Are there more libraries in happier countries? (number of libraries)
 Does usage of libraries correlate with happiness rankings? (multiple user proxies available)
 
 #Visualizations
-Number of libraries in countries with happiness overlay (heat maps)
-Happiness by country (bar graph)
-Libraries per country (bar graph) 
-Scatter plot of physical visits and happiness
-Scatter plot of loans and happiness
+
+
+What are some of the happiest countries:
+    Happiness by country (bar graph) - Zoe
+
+What % of libraries are public:
+    Library Types (pie char) - Pam
+    
+Are more public libraries in happier countries?
+    Libraries per country (bar graph) - Mallory
+    Number of libraries in countries with happiness overlay (heat maps) - Group
+ 
+Does visiting libraries make a happier country? 
+    Library visits per country (bar graph) - Ellie
+    Scatter plot of physical visits and happiness
+
+Do the amount of libraries make a happier country?
+    Scatter plot of loans and happiness
+  
 Is there a correlation, if so how strong is the correlation? (a bit of stat analysis)
 
 #Source of data
