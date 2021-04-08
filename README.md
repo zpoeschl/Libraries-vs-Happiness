@@ -1,5 +1,4 @@
-# Project-1
-Project 1 for UMN Data Analytics bootcamp.
+# Libraries vs Happiness
 
 Mallory Anderson, Ellie Bunz, Pam Meyer, and Zoe Poeschl completed this project.
 
